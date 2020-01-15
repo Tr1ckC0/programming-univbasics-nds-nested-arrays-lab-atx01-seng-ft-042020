@@ -1,5 +1,5 @@
 # Examples inspired by U. S. National Organic Standards
-
+assembled_matrix = [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
 ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
